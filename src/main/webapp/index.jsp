@@ -13,6 +13,7 @@
       <h1 class="text-center">This is done for practice purpose</h1>
       <h2 class="text-center">On behlaf of devops academy</h2>
       <h1 class="text-center">Learning devops</h1>
+      <h1 class="text-center">All about devops</h1>
       
 <center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
  </center> </div>
